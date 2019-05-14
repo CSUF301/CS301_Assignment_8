@@ -1,4 +1,4 @@
-// Adapted from version by Frank Carrano and Timothy Henry
+
 #ifndef _LINKED_STACK
 #define _LINKED_STACK
 
